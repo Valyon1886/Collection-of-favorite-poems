@@ -1,0 +1,202 @@
+.container {
+  width: 100%;
+}
+
+.logo {
+  float: left;
+  margin-left: 5px;
+  text-decoration: none;
+  color: #fff;
+  font-family: Impact; 
+  font-size: 150%;
+}
+nav {
+  text-align: center;
+  
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+nav li {
+  display: inline-block; 
+  text-align: left;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+nav a:hover{
+  text-decoration: underline;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+nav a1 {
+  text-decoration: underline;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+header{
+    display: table;
+    width: 100%;
+    background-color: #66301D;
+    color: #fff;
+    margin: 20;
+    padding: 50;
+}
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #333;
+  display: -ms-flexbox;    
+  /*display: flex;*/
+  color: #fff;
+  text-shadow: 0 .15rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  
+}
+
+nav {
+  
+}
+
+.mastfoot {
+  display: table-row;
+  height: 100%;
+  text-decoration: none;
+  color: #fff;
+  width: 100%;
+}
+ 
+.simpletext1{
+  text-align: center;
+  margin-top: 88px;
+  margin-left: 40px;
+  margin-right: 40px;
+  text-shadow: 0 .15rem .15rem rgba(0, 0, 0, .5);
+  font-size: 175%;
+}
+
+.simpleimage{
+  /*
+  margin-left: 10px;*/
+  margin-right: 20px;
+  margin-bottom: 65px;
+  
+}
+span.main a{
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+span.main  a1{
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+span.main  a2{
+  float: left;
+  text-align: left;
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-size: 150%;
+}
+span.main ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+p1{
+  
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+p2{
+  
+  text-align: left;
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-size: 150%;
+}
+
+.page-separator {
+    margin: 0 0 10px 0px;
+    height: 2px;
+    background: #000000;
+}
+
+.forpoems{
+  color: #fff;
+  padding: 15px;
+
+}
+span.main  a1.special{
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-size: 2em;
+  font-family: Times New Roman; 
+
+}
+span.main  a3.special{
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+}
+h1{
+  padding: 15px;
+  text-align: center;
+}
+span.main1 a{
+   text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  font-size: 1em;
+  font-family: Times New Roman; 
+}
+
+.this{
+  text-decoration: underline;
+  color: #fff;
+  padding: 15px;
+  font-family: Impact; 
+  font-size: 150%;
+}
+
+hr{
+  color: #fff;
+  font-size: 550%;
+}
+
+#arrowTop {
+      height: 9px;
+      width: 14px;
+      color: white;
+      position: fixed;
+      bottom: 70px;
+      right: 200px;
+      cursor: pointer;
+    }
+#arrowTop::before {
+      content: 'Наверх↑';
+      font-size: 150%;
+    }
