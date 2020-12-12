@@ -1,0 +1,5 @@
+function youregoddamnright()
+{
+	return true;
+}
+
